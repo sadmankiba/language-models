@@ -1,0 +1,9 @@
+submission/
+9084608083/
+9084608083.zip
+*.pt
+output.dev.txt
+output.test.txt
+glove.6B.*
+submit.sh
+report.pdf
