@@ -1,0 +1,4 @@
+wget
+pytorch
+faiss-cpu
+transformers
